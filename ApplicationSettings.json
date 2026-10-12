@@ -1,0 +1,37 @@
+{
+  "IntegrateWithOtherApplication": {
+    "Password": "tl10m9uG~JJz"
+  },
+  "ShareCommandContainers": [],
+  "ListviewLoadingIndicatorSettings": {},
+  "GlobalProperties": [],
+  "WebSitePort": 42184,
+  "UserServicePort": 17924,
+  "StartDateFiscalYear": 4,
+  "BaseOnStartingMonth": true,
+  "MultipleLanguageSettings": {
+    "Languages": [
+      {
+        "Name": "ja",
+        "IsDefault": true,
+        "Description": "Built-in Japanese language, cannot be deleted",
+        "IsBuildIn": true,
+        "LanguageAttribute": "ja",
+        "FontFamily": "Body"
+      },
+      {
+        "Name": "en",
+        "Description": "Built-in English language, cannot be deleted",
+        "IsBuildIn": true,
+        "LanguageAttribute": "en",
+        "FontFamily": "Calibri"
+      }
+    ],
+    "PublicResource": {},
+    "RuntimeBuiltInResource": {
+      "FrontEndResources": {},
+      "ServerResources": {}
+    },
+    "PluginResource": {}
+  }
+}
